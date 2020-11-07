@@ -1,0 +1,7 @@
+test dataset /home/19jiangjh/data/PPI/release/otherdata/DIP/_TMP_nonTMP_qualified_drop_positive/Mus_TMP_nonTMP_471_431.txt
+Loss:0.723359,ACC:0.633411
+evaluate result:[0.7233593845588702, 0.6334106873746814, 1.0, 0.6334106873746814, 0.7738198614452388, 0.0]
+manual result:[acc,metric_precision, metric_recall, metric_F1score, matthews_correlation]
+manual result:[0.6334107, 1.0, 0.6334107, 0.7755681, 0.0]
+manual result2:[acc,precision,sensitivity,f1,mcc,aps,aucResults,specificity]
+manual result2:[0.6334106728538283, 1.0, 0.6334106728538283, 0.7755681818181818, 0.0, 1.0, nan, 0.0]

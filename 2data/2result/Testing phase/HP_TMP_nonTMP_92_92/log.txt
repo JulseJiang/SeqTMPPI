@@ -1,0 +1,7 @@
+test dataset /home/19jiangjh/data/PPI/release/otherdata/DIP/_TMP_nonTMP_qualified_drop_positive/HP_TMP_nonTMP_92_92.txt
+Loss:3.714731,ACC:0.010870
+evaluate result:[3.714731055757274, 0.010869565217391304, 0.021739127843276314, 0.010869565217391304, 0.014492751463599827, 0.0]
+manual result:[acc,metric_precision, metric_recall, metric_F1score, matthews_correlation]
+manual result:[0.010869565, 0.9999999, 0.010869565, 0.021505374, 0.0]
+manual result2:[acc,precision,sensitivity,f1,mcc,aps,aucResults,specificity]
+manual result2:[0.010869565217391304, 0.9999999999999998, 0.010869565217391304, 0.021505376344086016, 0.0, 1.0000000000000002, nan, 0.0]

@@ -1,0 +1,7 @@
+test dataset /home/19jiangjh/data/PPI/release/pairdata/p_fw_v1/3/0/train.txt
+Loss:0.211709,ACC:0.917023
+evaluate result:[0.2117091491227473, 0.9170225641216863, 0.9252961798729585, 0.728323476817493, 0.8108002051774724, 0.7705207728008587]
+manual result:[acc,metric_precision, metric_recall, metric_F1score, matthews_correlation]
+manual result:[0.9170226, 0.92624223, 0.72655296, 0.8143344, 0.7712198]
+manual result2:[acc,precision,sensitivity,f1,mcc,aps,aucResults,specificity]
+manual result2:[0.9170225747406956, 0.9262422360248447, 0.7265529841656516, 0.814334470989761, 0.7712197755344371, 0.9232285069499894, 0.9619890868368335, 0.9806674806674807]
