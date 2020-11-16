@@ -1,0 +1,4 @@
+tmp,nontmp,real_label,predict_label,predict
+P06213,P27986,1,1,0.9468936
+P35439,P35609,1,0,0.2738283
+P19438,P39429,1,1,0.72367203

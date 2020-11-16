@@ -1,0 +1,7 @@
+test dataset file/source/test1.txt
+Loss:0.557747,ACC:0.666667
+evaluate result:[0.5577465891838074, 0.6666666865348816, 1.0, 0.6666666865348816, 0.800000011920929, 0.0]
+manual result:[acc,metric_precision, metric_recall, metric_F1score, matthews_correlation]
+manual result:[0.6666667, 1.0, 0.6666667, 0.79999995, 0.0]
+manual result2:[acc,precision,sensitivity,f1,mcc,aps,aucResults,specificity]
+manual result2:[0.6666666666666666, 1.0, 0.6666666666666666, 0.7999999999999999, 0.0, 1.0, nan, 0.0]

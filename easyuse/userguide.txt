@@ -1,0 +1,9 @@
+SeqTMPPI\easyuse> python predict.py
+
+Using TensorFlow backend.
+2020-11-16 09:13:42.930707: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+Loss:0.334674,ACC:0.833333
+[acc,metric_precision, metric_recall, metric_F1score, matthews_correlation]
+[0.8333333, 1.0, 0.6666667, 0.79999995, 0.7071068]
+[acc,precision,sensitivity,f1,mcc,aps,aucResults,specificity]
+[0.8333333333333334, 1.0, 0.6666666666666666, 0.7999999999999999, 0.7071067811865476, 1.0, 1.0, 1.0]
